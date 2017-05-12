@@ -21,7 +21,17 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Este aplicativo precisa ter acesso a suas fotos para seu perfeito funcionamento.</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Este aplicativo precisa ter acesso ao seu calendário para o seu perfeito funcionamento</string>
+	<key>NSCameraUsageDescription</key>
 	<string>Este aplicativo precisa ter acesso a sua camera para seu perfeito funcionamento.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Este aplicativo precisa ter acesso ao seu microfone para o seu perfeito funcionamento</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Este aplicativo precisa ter acesso a sua localização, quando em uso, para seu perfeito funcionamento.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Este aplicativo precisa ter acesso a sua localização, sempre, para seu perfeito funcionamento.</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
